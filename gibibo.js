@@ -8,7 +8,7 @@ let depDate = leaveDate;
 let backDate = returnDate;
 
 
-  const queryURL = `https://developer.goibibo.com/api/search/?app_id=6f6f5b90&app_key=cb61916d5d1b594262e1fbb440e4a32b&format=json&source=${iataSourceCode}&destination=${iataDesCode}&dateofdeparture=${depDate}&dateofarrival=${backDate}&seatingclass=E&adults=1&children=0&infants=0&counter=100`
+  const queryURL = `https://developer.goibibo.com/api/search/?app_id=ad6a1a69&app_key=dcf3fe52cb4920b668f623315303b99f&format=json&source=${iataSourceCode}&destination=${iataDesCode}&dateofdeparture=${depDate}&dateofarrival=${backDate}&seatingclass=E&adults=1&children=0&infants=0&counter=100`
 
 
   console.log("getFlightInfo", iataSourceCode, iataDesCode, queryURL);
