@@ -1,7 +1,7 @@
 {
-  "name": "project1",
+  "name": "eventfinder",
   "version": "1.0.0",
-  "description": "GT BootCamp Project 1",
+  "description": "Event Finder",
   "main": "airports.js",
   "dependencies": {
     "air-port-codes-node": "^1.3.7"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaeltoplisek/project1.git"
+    "url": "git+https://github.com/afw821/EventFinder.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaeltoplisek/project1/issues"
+    "url": "https://github.com/afw821/EventFinder/issues"
   },
-  "homepage": "https://github.com/michaeltoplisek/project1#readme"
+  "homepage": "https://github.com/afw821/EventFinder#readme"
 }
